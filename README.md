@@ -1,1 +1,1 @@
-#RECKON - A Facial Recognition Attendance System
+**RECKON** - A Facial Recognition Attendance System
